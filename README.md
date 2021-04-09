@@ -1,4 +1,4 @@
 # projetoIntegrador
 
 
-essa alteracao foi feita no vscode
+essa alteracao foi feita no vscod
